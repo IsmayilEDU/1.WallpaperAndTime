@@ -1,0 +1,19 @@
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.csproj.AssemblyReference.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task_3___Change_bacground_picture.Form1.resources
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.csproj.GenerateResource.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.AssemblyInfoInputs.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.AssemblyInfo.cs
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.csproj.CoreCompileInputs.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\bin\Debug\net6.0-windows\Task 3 - Change bacground picture.exe
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\bin\Debug\net6.0-windows\Task 3 - Change bacground picture.deps.json
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\bin\Debug\net6.0-windows\Task 3 - Change bacground picture.runtimeconfig.json
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\bin\Debug\net6.0-windows\Task 3 - Change bacground picture.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\bin\Debug\net6.0-windows\Task 3 - Change bacground picture.pdb
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task_3___Change_bacground_picture.Properties.Resources.resources
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\refint\Task 3 - Change bacground picture.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.pdb
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task 3 - Change bacground picture.genruntimeconfig.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\ref\Task 3 - Change bacground picture.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 3 - Change bacground picture\obj\Debug\net6.0-windows\Task_3___Change_bacground_picture.MyFormerFormName.resources
