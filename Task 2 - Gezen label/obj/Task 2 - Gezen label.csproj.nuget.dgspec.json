@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj": {}
+    "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\1.WallpaperAndTime\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj": {}
   },
   "projects": {
-    "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj": {
+    "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\1.WallpaperAndTime\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj",
+        "projectUniqueName": "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\1.WallpaperAndTime\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj",
         "projectName": "Task 2 - Gezen label",
-        "projectPath": "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj",
+        "projectPath": "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\1.WallpaperAndTime\\Task 2 - Gezen label\\Task 2 - Gezen label.csproj",
         "packagesPath": "C:\\Users\\MSI NOTEBOOK\\.nuget\\packages\\",
-        "outputPath": "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\Task 2 - Gezen label\\obj\\",
+        "outputPath": "C:\\Ismayil\\PROJECTS\\StepIT\\5.Desktop\\Lesson 1 - Button, label, message box\\1.WallpaperAndTime\\Task 2 - Gezen label\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI NOTEBOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",

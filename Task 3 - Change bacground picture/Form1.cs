@@ -10,5 +10,10 @@ namespace Task_3___Change_bacground_picture
         }
 
         bool Baku;
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            ClickToButtonOfBaku(sender, e);
+        }
     }
 }

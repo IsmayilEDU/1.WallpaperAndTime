@@ -15,3 +15,20 @@ C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 
 C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.pdb
 C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.genruntimeconfig.cache
 C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\Task 1 - Create label\obj\Debug\net6.0-windows\ref\Task 1 - Create label.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\bin\Debug\net6.0-windows\Task 1 - Create label.exe
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\bin\Debug\net6.0-windows\Task 1 - Create label.deps.json
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\bin\Debug\net6.0-windows\Task 1 - Create label.runtimeconfig.json
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\bin\Debug\net6.0-windows\Task 1 - Create label.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\bin\Debug\net6.0-windows\Task 1 - Create label.pdb
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.csproj.AssemblyReference.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task_1___Create_label.Form1.resources
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.csproj.GenerateResource.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.AssemblyInfoInputs.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.AssemblyInfo.cs
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.csproj.CoreCompileInputs.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\refint\Task 1 - Create label.dll
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.pdb
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\Task 1 - Create label.genruntimeconfig.cache
+C:\Ismayil\PROJECTS\StepIT\5.Desktop\Lesson 1 - Button, label, message box\1.WallpaperAndTime\Task 1 - Create label\obj\Debug\net6.0-windows\ref\Task 1 - Create label.dll
